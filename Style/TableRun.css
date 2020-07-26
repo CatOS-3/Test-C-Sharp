@@ -1,0 +1,12 @@
+﻿body {
+}
+/*Таблица без отрисовки границ для RadioButtonList*/
+table {
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #202020;
+}
+
+td, th {
+    padding: 0;
+}
